@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/utsho roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsho roy" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100074953756613" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utsho roy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100074953756613" target="blank"><img align="center" src="https://lottie.host/embed/d8d92638-6feb-4fbc-9fbf-cb2ee1a9b03e/KijPUyBrcu.json" alt="utsho roy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
