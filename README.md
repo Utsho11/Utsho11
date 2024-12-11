@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsho11&label=Profile%20views&color=0e75b6&style=flat" alt="utsho11" /> </p>
 
-- 🌱 I’m currently learning **Next JS,Redux-toolkit**
+- 🌱 I’m currently looking for **internship  and remote job.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-656b8.web.app/](https://portfolio-656b8.web.app/)
 
