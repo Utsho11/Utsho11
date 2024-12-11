@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Utsho11/Utsho11/blob/main/Banner.png)](https://portfolio-656b8.web.app/)
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Utsho+Roy;I'm+a+MERN-stack+web+Devloper" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Utsho+Roy;I'm+a+MERN-stack+web+Developer" alt="Typing SVG" />
 </h1>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47cqbo2qnhg2xu7zlu3o2nwgnkp2igjs5m1h5wnptv&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
