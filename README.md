@@ -1,8 +1,11 @@
 [![MasterHead](https://github.com/Utsho11/Utsho11/blob/main/banner.png)](https://portfolio-656b8.web.app/)
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Utsho+Roy;I'm+a+MERN-stack+web+Developer" alt="Typing SVG" />
+<h1 align="center" style="font-weight: bold; font-size: 46;">
+    <strong>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=👋+Hi!+I'm+Utsho+Roy;I'm+a+MERN-Stack+web+Developer" alt="Typing SVG" />
+    </strong>
 </h1>
-## Hi there! 👋 I'm Utsho Roy  
+
+# Hi there! 👋 I'm Utsho Roy  
 
 💻 **Full-Stack Developer** | 🚀 **MERN & Next.js Enthusiast** | 🛠️ **Tech Explorer**
 
