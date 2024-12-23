@@ -24,7 +24,7 @@ I specialize in crafting scalable, user-centric web applications with modern tec
 
 📂 Explore my repositories to see my work on full-stack development, API integrations, and cutting-edge web technologies. Let's connect and collaborate on building something amazing!
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47cqbo2qnhg2xu7zlu3o2nwgnkp2igjs5m1h5wnptv&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsho11&label=Profile%20views&color=0e75b6&style=flat" alt="utsho11" /> </p>
 
