@@ -30,7 +30,7 @@ I specialize in crafting scalable, user-centric web applications with modern tec
 
 - 🌱 I’m currently looking for **internship  and remote job.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-656b8.web.app/](https://portfolio-656b8.web.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://utshoroy.vercel.app)
 
 - 💬 Ask me about **Javascript, C, MERN stack.**
 
