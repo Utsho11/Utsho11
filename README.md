@@ -2,6 +2,25 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I'm+Utsho+Roy;I'm+a+MERN-stack+web+Developer" alt="Typing SVG" />
 </h1>
+# Hi there! 👋 I'm Utsho Roy  
+
+💻 **Full-Stack Developer** | 🚀 **MERN & Next.js Enthusiast** | 🛠️ **Tech Explorer**
+
+I specialize in crafting scalable, user-centric web applications with modern technologies like:  
+- **Frontend Frameworks:** React, Next.js  
+- **State Management:** React-Redux  
+- **Backend Development:** Node.js, Express  
+- **Database Technologies:** PostgreSQL, MongoDB (Mongoose)  
+- **ORMs and Query Builders:** Prisma, Mongoose  
+- **Data Validation:** Zod for robust schema validation  
+
+## What I love to do:  
+- Build seamless user experiences with Next.js and React.  
+- Create efficient state management solutions with React-Redux.  
+- Develop robust backend systems and APIs.  
+
+📂 Explore my repositories to see my work on full-stack development, API integrations, and cutting-edge web technologies. Let's connect and collaborate on building something amazing!
+
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47cqbo2qnhg2xu7zlu3o2nwgnkp2igjs5m1h5wnptv&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsho11&label=Profile%20views&color=0e75b6&style=flat" alt="utsho11" /> </p>
