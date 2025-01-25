@@ -49,5 +49,6 @@ I specialize in crafting scalable, user-centric web applications with modern tec
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=utsho11&show_icons=true&theme=transparent&card_width=350" alt="utsho11" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Utsho11" alt="GitHub Streak" /></a>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=utsho11&show_icons=true&locale=en&layout=donut&theme=transparent" alt="utsho11" /></p>
 
