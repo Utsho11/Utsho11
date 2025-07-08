@@ -57,8 +57,8 @@ I specialize in crafting scalable, user-centric web applications with modern tec
 </div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Utsho11&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utsho11&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Utsho11&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utsho11&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </div>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
