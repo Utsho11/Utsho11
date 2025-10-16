@@ -51,8 +51,10 @@ I specialize in crafting scalable, user-centric web applications with modern tec
 
 
  **<h3 align="left">GitHub Stats:</h3>**
-
-[![GitHub Streak](https://github-readme-streak-stats-rouge-five.vercel.app?user=Utsho11)](https://git.io/streak-stats)
+ 
+<div align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-rouge-five.vercel.app?user=Utsho11&theme=transparent&border_radius=5&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Utsho11&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
