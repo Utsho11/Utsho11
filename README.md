@@ -53,7 +53,7 @@ I specialize in crafting scalable, user-centric web applications with modern tec
  **<h3 align="left">GitHub Stats:</h3>**
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Utsho11&theme=transparent" alt="GitHub Streak" /></a>
+<img src="https://streak-stats.demolab.com?user=Utsho11&theme=transparent" alt="GitHub Streak" />
 </div>
 
 <div align="center">
